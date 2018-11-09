@@ -1,0 +1,7 @@
+C:\dev\CSharpDependencyInjection\CSharpDependencyInjection\obj\Debug\CSharpDependencyInjection.csprojAssemblyReference.cache
+C:\dev\CSharpDependencyInjection\CSharpDependencyInjection\obj\Debug\CSharpDependencyInjection.csproj.CoreCompileInputs.cache
+C:\dev\CSharpDependencyInjection\CSharpDependencyInjection\bin\Debug\CSharpDependencyInjection.exe.config
+C:\dev\CSharpDependencyInjection\CSharpDependencyInjection\bin\Debug\CSharpDependencyInjection.exe
+C:\dev\CSharpDependencyInjection\CSharpDependencyInjection\bin\Debug\CSharpDependencyInjection.pdb
+C:\dev\CSharpDependencyInjection\CSharpDependencyInjection\obj\Debug\CSharpDependencyInjection.exe
+C:\dev\CSharpDependencyInjection\CSharpDependencyInjection\obj\Debug\CSharpDependencyInjection.pdb
